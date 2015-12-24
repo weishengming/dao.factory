@@ -11,9 +11,10 @@ import com.alibaba.fastjson.JSON;
 
 
 
+ 
 /**
- * @author 杨天�?
- * 基础的实体类
+ * @author 杨天赐
+ *
  */
 @MappedSuperclass
 public class BaseDO implements Serializable {
